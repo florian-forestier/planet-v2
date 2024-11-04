@@ -8,9 +8,8 @@ description = "Retrouvez tous les événements du monde IT Auvergnat !"
 
 [Menus]
 main = [
-    {Name = "Accueil", URL = "https://planet.clermontech.org", Weight = 1},
-    {Name = "Clermont'ech", URL = "https://clermontech.org/", Weight = 2},
-    {Name = "RSS", URL = "/index.xml", Weight = 3},
+    {Name = "Clermont'ech", URL = "https://clermontech.org/", Weight = 1},
+    {Name = "RSS", URL = "/index.xml", Weight = 2},
 ]
 
 
