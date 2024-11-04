@@ -7,29 +7,29 @@
 }
 
 .fa-clock {
-    background-image: url("/fontawesome/clock.svg");
+    background-image: url("../fontawesome/clock.svg");
 }
 
 .fa-calendar {
-    background-image: url("/fontawesome/calendar-days.svg");
+    background-image: url("../fontawesome/calendar-days.svg");
 }
 
 .fa-google {
-    background-image: url("/fontawesome/google.svg");
+    background-image: url("../fontawesome/google.svg");
 }
 
 .fa-link {
-    background-image: url("/fontawesome/link.svg");
+    background-image: url("../fontawesome/link.svg");
 }
 
 .fa-location {
-    background-image: url("/fontawesome/location-dot.svg");
+    background-image: url("../fontawesome/location-dot.svg");
 }
 
 .fa-tags {
-    background-image: url("/fontawesome/tags.svg");
+    background-image: url("../fontawesome/tags.svg");
 }
 
 .fa-people-group {
-    background-image: url("/fontawesome/people-group.svg");
+    background-image: url("../fontawesome/people-group.svg");
 }
