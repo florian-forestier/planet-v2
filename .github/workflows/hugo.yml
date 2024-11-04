@@ -55,7 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "$(echo ${{ steps.pages.outputs.base_url }} | sed -e "s/http:/http:/g)/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
